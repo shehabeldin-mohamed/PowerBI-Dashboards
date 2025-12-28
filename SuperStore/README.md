@@ -1,4 +1,4 @@
-# SuperStore Sales Dashboard 📊
+# SuperStore Sales Dashboard
 
 This project analyzes sales data from the SuperStore dataset, which is widely used for educational and demo purposes in tools like Tableau and Power BI. The dashboard provides insights into regional and category-level sales performance to support data-driven decisions.
 
@@ -76,4 +76,5 @@ If you are the data owner and would like this dataset or project removed or modi
 ---
 
 Feel free to open the `.pbix` file in **Power BI Desktop** to explore the interactive dashboard.
+
 
