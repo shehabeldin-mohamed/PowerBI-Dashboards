@@ -4,19 +4,19 @@ This project analyzes sales data from the SuperStore dataset, which is widely us
 
 ---
 
-## 🔍 Objective
+## Objective
 
 To explore SuperStore's sales data in depth and uncover actionable insights related to customer segments, product categories, profit margins, and regional performance.
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Overview](Dashboard.png)
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel (for initial data cleaning)
 - SQL Server Management Studio (SSMS)
@@ -25,7 +25,7 @@ To explore SuperStore's sales data in depth and uncover actionable insights rela
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 - Cleaned the dataset in **Excel** (handled missing values, corrected types, standardized entries).
 - Imported the cleaned dataset into **SQL Server**.
@@ -35,7 +35,7 @@ To explore SuperStore's sales data in depth and uncover actionable insights rela
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 - Sales and profit analysis by segment, region, and category
 - Discount impact analysis
@@ -44,7 +44,7 @@ To explore SuperStore's sales data in depth and uncover actionable insights rela
 
 ---
 
-## 📂 Folder Contents
+## Folder Contents
 
 - `SuperStoreDashboard.pbix` – Main Power BI dashboard
 - `Dashboard.png` – Image preview of the dashboard
@@ -54,7 +54,7 @@ To explore SuperStore's sales data in depth and uncover actionable insights rela
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - **Consumer** segment dominates customer base in all regions.
 - **West** and **East** regions contribute the highest sales volume.
@@ -63,7 +63,7 @@ To explore SuperStore's sales data in depth and uncover actionable insights rela
 
 ---
 
-## 📄 Data Source & Disclaimer
+## Data Source & Disclaimer
 
 The dataset used in this project is available on [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data) and was originally shared by a user who included the following disclaimer:
 
@@ -76,3 +76,4 @@ If you are the data owner and would like this dataset or project removed or modi
 ---
 
 Feel free to open the `.pbix` file in **Power BI Desktop** to explore the interactive dashboard.
+
